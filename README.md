@@ -5,4 +5,4 @@
 
 #### Pinned Repo
 [![cplx.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=cplx.js&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC&icon_color=FFFFFF)](https://github.com/sweetcorn1229/cplx.js)
-[![sequ.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=cplx.js&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC&icon_color=FFFFFF)](https://github.com/sweetcorn1229/sequ.js)
+[![sequ.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=sequ.js&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC&icon_color=FFFFFF)](https://github.com/sweetcorn1229/sequ.js)
