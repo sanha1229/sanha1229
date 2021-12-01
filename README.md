@@ -3,6 +3,7 @@
 
 ### I like..
 - Mathematics
+- Anime
 
 ### I learn..
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
