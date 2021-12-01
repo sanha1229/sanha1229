@@ -13,7 +13,7 @@
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%20language&logoColor=FFFFFF"/></a>
 
 ### My favorite project is..
 #### cplx.js - Javascript complex number library
