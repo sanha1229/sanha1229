@@ -5,7 +5,7 @@
 - Mathematics
 
 ### I learn..
-<a><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a>
 
 ### My favorite project is..
 #### cplx.js - Javascript complex number library
