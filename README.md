@@ -16,6 +16,8 @@
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=FFFFFF"/></a>
+
 
 ### My favorite project is..
 #### cplx.js - Javascript complex number library
