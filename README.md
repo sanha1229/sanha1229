@@ -16,8 +16,8 @@
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat-square&logo=CoffeeScript&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=FFFFFF"/></a>
@@ -29,6 +29,7 @@
 <a><img src="https://img.shields.io/badge/Replit-EFEFEF?style=flat-square&logo=Replit&logoColor=667881"/></a>
 <a><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=StackOverflow&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
 
 ### My favorite project is..
