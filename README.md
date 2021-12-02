@@ -43,6 +43,6 @@
 <a><img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=StackOverflow&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
 
-### My favorite project is..
-#### cplx.js - Javascript complex number library
-[![cplx.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=cplx.js&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC&icon_color=FFFFFF)](https://github.com/sweetcorn1229/cplx.js)
+### Math Project
+#### cplx.js
+[![cplx.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=cplx.js&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sweetcorn1229/cplx.js)
