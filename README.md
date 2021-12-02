@@ -33,15 +33,10 @@
 <a><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=FFFFFF"/></a>
 
-### IDE/Editor/Other
+### IDE/Editor
 <a><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Replit-EFEFEF?style=flat-square&logo=Replit&logoColor=667881"/></a>
-<br>
-<a><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=StackOverflow&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
 
 ### Math Project
 [![cplx.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=cplx.js&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/cplx.js)
