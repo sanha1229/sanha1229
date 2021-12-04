@@ -42,3 +42,4 @@
 [![cplx.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=cplx.js&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/cplx.js)
 [![sequsequ](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=sequsequ&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/sequsequ)
 [![matfunc.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=matfunc.js&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/matfunc.js)
+[![matfunc.java](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=matfunc.java&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/matfunc.java)
