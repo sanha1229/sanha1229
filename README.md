@@ -37,9 +37,3 @@
 <a><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Replit-EFEFEF?style=flat-square&logo=Replit&logoColor=667881"/></a>
-
-### Math Project
-[![cplx.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=cplx.js&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/cplx.js)
-[![sequsequ](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=sequsequ&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/sequsequ)
-[![matfunc.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=matfunc.js&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/matfunc.js)
-[![matfunc.java](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=matfunc.java&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=ABABAB)](https://github.com/sweetcorn1229/matfunc.java)
