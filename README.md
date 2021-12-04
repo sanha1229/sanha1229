@@ -12,6 +12,8 @@
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetcorn1229&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
+
 ### Tried
 
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
