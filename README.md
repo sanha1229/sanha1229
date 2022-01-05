@@ -7,3 +7,7 @@
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
+
+### Projects
+
+[![cplx.js](https://github-readme-stats.vercel.app/api/pin/?username=sweetcorn1229&repo=cplx.js)](https://github.com/sweetcorn1229/cplx.js)
