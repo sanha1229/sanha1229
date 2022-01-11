@@ -1,4 +1,4 @@
-<img src="https://github.com/sweetcorn1229/sweetcorn1229/blob/main/ast/github-readme-profile.png?raw=true" width="450 height="75"/>
+<img src="https://github.com/sweetcorn1229/sweetcorn1229/blob/main/ast/github-readme-profile.png?raw=true" width="450" height="75"/>
 
 ## Hi there! 안녕하세요!
 [![Github Stat](https://github-readme-stats.vercel.app/api?username=sweetcorn1229&show_icons=true&icon_color=FFFFFF&hide=issues,contribs&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC)](https://github.com/sweetcorn1229/sweetcorn1229)
