@@ -1,7 +1,7 @@
 
 ## Hi there! 안녕하세요!
 [![Github Stat](https://github-readme-stats.vercel.app/api?username=sweetcorn1229&show_icons=true&icon_color=FFFFFF&hide=issues,contribs&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC)](https://github.com/sweetcorn1229/sweetcorn1229)
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanha129)](https://solved.ac/sanha129)
+<br/>[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanha129)](https://solved.ac/sanha129)
 <br/>Now I do these things as a hobby
 
 ### Skills
