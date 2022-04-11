@@ -10,13 +10,16 @@
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
 ### I sometimes use
-<a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat-square&logo=CoffeeScript&logoColor=FFFFFF"/></a>
 
 ### I have learned a little
 <a><img src="https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=C%2b%2b&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=FFFFFF"/></a>
 
 ### solved.ac
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanha129)](https://solved.ac/sanha129)
