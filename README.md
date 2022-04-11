@@ -8,7 +8,15 @@
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanha1229&layout=compact)](https://github.com/sanha1229)
+
+### I sometimes use
+<a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/></a>#A8B9CC
+<a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat-square&logo=CoffeeScript&logoColor=FFFFFF"/></a>
+
+### I have learned a little
+<a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/></a>
 
 ### solved.ac
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanha129)](https://solved.ac/sanha129)
