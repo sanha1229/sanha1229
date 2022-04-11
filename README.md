@@ -3,24 +3,22 @@
 [![Github Stat](https://github-readme-stats.vercel.app/api?username=sanha1229&show_icons=true&icon_color=FFFFFF&hide=issues,contribs&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC)](https://github.com/sanha1229/sanha1229)
 - Korean Highschool Student
 
-### I usually use
+### Using
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
-
-### I sometimes use
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>-u
+<br>
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat-square&logo=CoffeeScript&logoColor=FFFFFF"/></a>
-
-### I have learned a little
+<a><img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat-square&logo=CoffeeScript&logoColor=FFFFFF"/></a>-s
+<br>
 <a><img src="https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=C%2b%2b&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=FFFFFF"/></a>-l
 
 ### solved.ac
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanha129)](https://solved.ac/sanha129)
