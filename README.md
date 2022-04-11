@@ -8,6 +8,7 @@
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanha1229&layout=compact)](https://github.com/sanha1229)
 
 ### solved.ac
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanha129)](https://solved.ac/sanha129)
