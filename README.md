@@ -1,4 +1,3 @@
-
 ## Hi there!
 [![Github Stat](https://github-readme-stats.vercel.app/api?username=sanha1229&show_icons=true&icon_color=FFFFFF&hide=issues,contribs&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC)](https://github.com/sanha1229/sanha1229)
 
@@ -13,6 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanha1229&layout=compact)](https://github.com/sanha1229/sanha1229)
 
-### BOJ / SolvedAC (2024 수능 이후 복귀)
+### BOJ / SolvedAC
+2024 수능 이후 복귀함.
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanha129)](https://solved.ac/sanha129)
 
