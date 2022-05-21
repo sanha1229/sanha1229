@@ -10,4 +10,4 @@
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanha1229&layout=compact)](https://github.com/sanha1229/sanha1229)
+[![Discord Presence](https://lanyard.cnrad.dev/api/AFlat#1229)](https://discord.com/users/AFlat#1229)
