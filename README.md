@@ -1,7 +1,7 @@
 ## Hi there!
 [![Github Stat](https://github-readme-stats.vercel.app/api?username=sanha1229&show_icons=true&icon_color=FFFFFF&hide=issues,contribs&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,BE93C5,7BC6CC)](https://github.com/sanha1229/sanha1229)
 
-<br/>
+### Using
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a>
@@ -10,4 +10,5 @@
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/></a>
 
+### Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/619802968887263262)](https://discord.com/users/619802968887263262)
