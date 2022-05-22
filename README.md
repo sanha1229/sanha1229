@@ -1,2 +1,2 @@
 ## Hi there :)
-There will be no activity until July 2nd..
+There will be few activities until July 2nd..
